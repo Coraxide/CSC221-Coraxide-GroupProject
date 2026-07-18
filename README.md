@@ -7,4 +7,4 @@ __Project Description:__ This project collects Major League Baseball standings d
 
 __API URL:__ MLB Data [ https://statsapi.mlb.com/api/v1/standings?leagueId=103,104&season=2025&standingsTypes=regularSeason ]
 
-__Collaborator:__ Janay Snell (jlsnell@my.waketech.edu)
+__Collaborator:__ Janay Snell (jlsnell@my.waketech.edu) ACCEPTED
